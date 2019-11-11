@@ -10,11 +10,6 @@
     <name>QuickFIX/J Examples</name>
     <description>QuickFIX/J example applications</description>
     <url>http://www.quickfixj.org</url>
-    <modules>
-        <module>executor</module>
-        <module>ordermatch</module>
-        <module>banzai</module>
-    </modules>
     <dependencies>
         <dependency>
             <groupId>org.quickfixj</groupId>
